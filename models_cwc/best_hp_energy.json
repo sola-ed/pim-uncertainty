@@ -1,0 +1,10 @@
+{
+    "lr_ini": 0.05,
+    "decay_rate": 0.85,
+    "sigma": 1e-05,
+    "weight_decay": 0.001,
+    "tuner/epochs": 3,
+    "tuner/initial_epoch": 0,
+    "tuner/bracket": 6,
+    "tuner/round": 0
+}

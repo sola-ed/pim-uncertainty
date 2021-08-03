@@ -1,0 +1,10 @@
+{
+    "learning_rate": 0.01,
+    "decay": 0.0,
+    "sigma": 0.201,
+    "dropout_rate": 0.25,
+    "tuner/epochs": 3,
+    "tuner/initial_epoch": 0,
+    "tuner/bracket": 6,
+    "tuner/round": 0
+}
