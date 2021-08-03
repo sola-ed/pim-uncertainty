@@ -9,7 +9,7 @@ To run the scripts, please install the requirements from the provided conda envi
 conda env create -f environment.yml
 ```
 
-Contents:
+## Contents:
 ```
 ├── calib_cls.py        (For calibrating classifiers)
 ├── clean_cls_data.py   (For data cleaning of classification datasets)
@@ -32,4 +32,4 @@ Contents:
 └── sqr.py              (Simultaneous Quantiles Regression)
 ```
 
-This source code is released under a Attribution-NonCommercial 4.0 International license.
+This source code is released under a Attribution-NonCommercial 4.0 International license, found [here](https://github.com/sola-ed/pim-uncertainty/blob/main/LICENSE.txt)
