@@ -1,5 +1,5 @@
 # Can a single neuron learn quantiles?
-Source code for [Can a single neuron learn quantiles?](https://arxiv.org/abs/2106.03702) 
+Source code for the paper [Can a single neuron learn quantiles?](https://arxiv.org/abs/2106.03702) 
 
 ## Requirements
 
